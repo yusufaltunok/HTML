@@ -1,0 +1,62 @@
+*{
+
+text-align: center;
+font-size: 30px;
+background-color: rgb(148, 226, 226);
+color: red;
+
+
+
+}
+.lor-class{
+background-color: burlywood;
+
+
+}
+
+.Baslik-2{
+
+border: 3px solid gold;
+padding: 25px;
+margin: 75px;
+background-color: green;
+
+}
+
+.baslik3{
+
+    border: 3px dotted orange ;
+    background-color: burlywood;
+    border-radius: 10px;
+    margin: 10px 40px;
+    padding: 2rem 3rem 0 5rem;
+
+
+}
+
+.baslik4{
+
+    border: 5px dashed ;
+    background-color: blueviolet;
+    text-transform: uppercase;
+    border-radius: 20px;
+
+
+}
+
+.baslik1{
+
+    border-top: 3px solid green;
+    border-bottom: 3px solid pink;
+    margin-top: 5rem;
+    margin-right: 3rem;
+    padding: 2rem 1rem 3rem 6rem ;    
+
+}
+.spanEl{
+
+background-color: blueviolet;
+color: black;
+padding: 20px 0;
+
+}

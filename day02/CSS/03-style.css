@@ -1,0 +1,19 @@
+h1{
+    color: red;
+    font-size: x-large;
+    font-weight: bold;
+    font-style: italic;
+    text-transform: uppercase;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-decoration: underline;
+}
+
+p{
+
+    color: beige;
+    background-color: chocolate;
+    font-size: larger;
+    text-align: center;
+    
+
+}
